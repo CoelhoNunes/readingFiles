@@ -1,0 +1,5 @@
+Number of uppercase letters: 4558
+Number of lowercase letters: 103186
+Number of punctuation marks: 8249
+Number of whitespaces: 28920
+Number of others: 62
