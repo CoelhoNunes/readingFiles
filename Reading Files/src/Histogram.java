@@ -1,13 +1,3 @@
-/*
-Daniel Coelho
-PID: 6194506
-COP3337 RVC 1211
-04/06/2021 
-Assignment 3
-Dr. Fahad Saeed
- */
-
-
 import java.util.*;
 import java.io.*;
 
